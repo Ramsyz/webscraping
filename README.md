@@ -1,5 +1,5 @@
 # webscraping
-*Parsing
+1*Parsing
 *title
 +paragraph(find_all)
 +paragraph.text
